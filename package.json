@@ -20,6 +20,5 @@
     "random": "^3.0.6",
     "simple-git": "^2.48.0",
     "webpack-dev-server": "^3.11.2"
-  },
-  "devDependencies": {}
+  }
 }
